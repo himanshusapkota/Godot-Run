@@ -203,4 +203,4 @@ autoplay = "default"
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=1141089390]
 position = Vector2(0.6666667, 3)
-shape = SubResource("RectangleShape2D_lquwl")
+shape = SubResource("RectangleShape2D_lquwl") 
